@@ -1,6 +1,7 @@
-#Dockerized Springboot Maven application
+# Dockerized Springboot Maven application
 
-###Problem statement
+### Problem statement
+
 In a basic Dockerized Springboot Maven application, develop a single REST endpoint GET /greeting which behaves in
  the following manner:
 
