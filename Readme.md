@@ -28,7 +28,7 @@ then return "Welcome, business user!".
 
 ### Solution description
 This application can be run with docker and integrated with any running application within
-same network. API calls will return the ids and path which can be further validated.
+same network. API call will return greeting message based on id and type.
 
 ### Build application with Maven
 
